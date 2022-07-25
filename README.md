@@ -1,8 +1,19 @@
 <h2>Alterações Eduardo Augusto da Silva Leite</h2>
 
+Este é um fork de um projeto referente ao desafio Bootcamp DIO/TQI para testes usando Spring Framework.
+As alterações foram as seguintes:
+
 * Implementada a função de decremento;
 * Implementados os testes relativos ao decremento a nível de serviço;
 * Implementados os testes relativos ao decremento a nível de API;
+
+Abaixo seguem as especificações do meu ambiente java:
+
+```
+openjdk 17.0.3 2022-04-19
+OpenJDK Runtime Environment Temurin-17.0.3+7 (build 17.0.3+7)
+OpenJDK 64-Bit Server VM Temurin-17.0.3+7 (build 17.0.3+7, mixed mode, sharing)
+```
 
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
